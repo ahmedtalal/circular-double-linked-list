@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1608658472 source:d:\collage\terms1\ds\ds_projects\circulardoublelinkedlist\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1608659745 source:d:\collage\terms1\ds\ds_projects\circulardoublelinkedlist\circulardouble.c
+	"circularDouble.h"
+	<stddef.h>
+
+1608648004 d:\collage\terms1\ds\ds_projects\circulardoublelinkedlist\circulardouble.h
+
